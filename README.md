@@ -37,3 +37,5 @@ Have questions, feedback, or just want to chat with fellow users? Join our [Disc
 ---
 
 ⚠️ Disclaimer: Use this client at your own discretion. We are not responsible for any consequences of using this client.
+
+credit: chatgpt for writing this
