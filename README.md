@@ -1,7 +1,5 @@
 # Minecraft Bedrock Ghost Client v1.20.12
 
-Welcome to the Minecraft Bedrock Ghost Client for version 1.20.12. Enhance your gameplay and gain an edge with the features provided. Don't just play, play smart.
-
 ![Minecraft Bedrock Ghost Client Screenshot](https://media.discordapp.net/attachments/1140005765323685898/1140005944630202549/image.png)
 
 ## 🎉 Features
