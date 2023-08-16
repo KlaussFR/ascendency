@@ -10,10 +10,10 @@ Welcome to the Minecraft Bedrock Ghost Client for version 1.20.12. Enhance your 
 - **Aim assist**: Perfect your aim during those crucial moments.
 - **Auto Pot**: Automate your potion use.
 - **Auto Refill**: Never run out of essentials again.
-- **Auto Sprint**: Always be on the move.
+- **Auto Sprint**: Always sprint by default.
 - **Reach**: Hit enemies from unexpected distances.
 - **Hitbox**: Improved hit detection.
-- **Velocity**: Control your movement dynamics.
+- **Velocity**: Control your players knockback.
 - **Nametags**: Always know who's around.
 - **Esp**: Gain insight into your surroundings.
 - **Tracer**: Keep track of your targets.
@@ -30,12 +30,5 @@ Welcome to the Minecraft Bedrock Ghost Client for version 1.20.12. Enhance your 
 - [ ] **Auto Armor**: Automate your armor management.
 - [ ] **Chest Stealer**: Quickly loot valuable items.
 
-## 🌐 Join Our Community
-
-Have questions, feedback, or just want to chat with fellow users? Join our [Discord community](https://discord.gg/eCdcjyRuQu)!
-
----
-
-⚠️ Disclaimer: Use this client at your own discretion. We are not responsible for any consequences of using this client.
-
-credit: chatgpt for writing this
+## 🌐 Join OurDiscord
+(https://discord.gg/eCdcjyRuQu)!
